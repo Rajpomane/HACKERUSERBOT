@@ -25,8 +25,8 @@ A simple Telegram userbot based on Telethon .
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
 ## Support
-   <a href="https://t.me/catuserbot17"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/attiudedp"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/attiudedp"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
    - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
@@ -37,21 +37,11 @@ A simple Telegram userbot based on Telethon .
 ## Disclaimer
 
 ```
-              YOU ARE FOREWARNED
-Your Telegram account may get banned.   
-Catuserbot or we are not responsible for your account, 
-This bot is intended for the purpose of having fun with some fun commands 
-and group management with some helpfull commands.
+                  ☠︎︎༒︎ᴡᴀʀɴɪɴɢ☠︎︎༒︎
+   ᴡᴀʀɴɪɴɢ ᴀᴡʀɴɪɴɢ ᴍᴇ ɴᴀʜɪ ᴅᴇᴛᴀ ʙᴀss ɪᴛɴᴀ ʙᴏʟᴜɴɢᴀ ʙᴏᴛ ᴋᴇ sᴀᴛʜ ɢᴀɴᴅ ᴍᴀsᴛɪ ᴍᴀᴛ ᴋᴀʀɴᴀ ᴋɪsɪ ɢʀᴜᴘ ᴋᴏ ᴍᴀᴛ ᴜᴅᴀɴᴀ ʙᴀɴ ᴀʟʟ ᴡᴀɢᴇʀᴀ ᴋᴜᴄʜ ᴍᴀᴛ ᴋᴀʀɴᴀ ᴀᴡʀ ʙᴏᴛ ᴋᴏ ᴀᴀᴄʜᴇ ᴋᴇ ʟɪʏᴇ ᴜsᴇ ᴋᴀʀᴏ 
+Dɪᴘʟᴏʏ ᴋᴀʀɴᴇ ᴋᴇ ʟɪʏᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ ᴍᴀᴛ ɴɪᴋᴀʟɴᴀ ɴᴀʜɪ ᴛᴏ ᴀᴀᴘᴋᴇ ʟᴀᴠᴅᴇ ʟᴀɢ sᴀᴋᴛᴇ ʜᴇ ᴀᴡʀ ᴀᴀᴘᴋɪ ɪᴅ ʙᴀɴ ʜᴏ sᴀᴋᴛɪ ʜᴇ sᴏ ʙᴏᴛ ᴋᴏ ᴀᴀᴄʜᴇ sᴇ ᴜsᴇ ᴋᴀʀᴛᴇ ɴᴀʜɪ ᴛᴏ ʙᴏᴛ ᴀᴀᴘᴋɪ ᴋʜᴀᴅᴇ ᴋʜᴀᴅᴇ ʟᴇ ʟᴇɢᴀ !!
 
-If  you ended up spamming groups, getting reported left and right, 
-and you ended up in being fight with Telegram 
-and at the end Telegram Team deleted your account. DON'T BLAME US.
-
-No personal support will be provided / We won't spoon feed you. 
-If you need help ask in our support group 
-and we or our friends will try to help you.
-
-Thanks for using our bot 😺
+Bot use karne ke liye dhanyawad raat ko ladki ka intzam karna bass 
 ```
 
 ## Credits
