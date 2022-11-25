@@ -38,8 +38,7 @@ A simple Telegram userbot based on Telethon .
 
 ```
                   ☠︎︎༒︎"ᴡᴀʀɴɪɴɢ☠︎︎"༒︎
- ᴍᴇ ɴᴀʜɪ ᴅᴇᴛᴀ ʙᴀ𝓈𝓈 ɪᴛɴᴀ ʙᴏʟᴜɴɢᴀ ʙᴏᴛ ᴋᴇ 𝓈ᴀᴛʜ ɢᴀɴᴅ ᴍᴀ𝓈ᴛɪ ᴍᴀᴛ ᴋᴀʀɴᴀ ᴋɪ𝓈ɪ ɢʀᴜᴘ ᴋᴏ ᴍᴀᴛ ᴜᴅᴀɴᴀ ʙᴀɴ ᴀʟʟ ᴡᴀɢᴇʀᴀ ᴋᴜᴄʜ ᴍᴀᴛ ᴋᴀʀɴᴀ ᴀᴡʀ ʙᴏᴛ ᴋᴏ ᴀᴀᴄʜᴇ ᴋᴇ ʟɪʏᴇ ᴜ𝓈ᴇ ᴋᴀʀᴏ 
-𝒟ɪᴘʟᴏʏ ᴋᴀʀɴᴇ ᴋᴇ ʟɪʏᴇ ᴛᴇʟᴇᴛʜᴏɴ 𝓈ᴛʀɪɴɢ ᴍᴀᴛ ɴɪᴋᴀʟɴᴀ ɴᴀʜɪ ᴛᴏ ᴀᴀᴘᴋᴇ ʟᴀᴠᴅᴇ ʟᴀɢ 𝓈ᴀᴋᴛᴇ ʜᴇ ᴀᴡʀ ᴀᴀᴘᴋɪ ɪᴅ ʙᴀɴ ʜᴏ 𝓈ᴀᴋᴛɪ ʜᴇ 𝓈ᴏ ʙᴏᴛ ᴋᴏ ᴀᴀᴄʜᴇ 𝓈ᴇ ᴜ𝓈ᴇ ᴋᴀʀᴛᴇ ɴᴀʜɪ ᴛᴏ ʙᴏᴛ ᴀᴀᴘᴋɪ ᴋʜᴀᴅᴇ ᴋʜᴀᴅᴇ ʟᴇ ʟᴇɢᴀ !!
+ Warning warning Me nahi deta bass itna bolunga bot ke sath gand masti mat karna kisi group ko mat udana ban all wagera kuch mat karna karna awr bot aache ke liye use karo diploy karne ke liye telethon string mat nikalna nahi to aapke lavde lag sakte he awr aapki I'd ban ho sakti he so bot ko aache se use karo nahi to bot aapki khade khade le lega !!
 Bot use karne ke liye dhanyawad raat ko ladki ka intzam karna bass 
 ```
 
