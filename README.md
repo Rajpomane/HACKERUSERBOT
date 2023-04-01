@@ -1,6 +1,6 @@
 
 <p align="center">
-  <vid src="https://te.legra.ph/file/6fb5fad08857eb2f5e51c.mp4">
+  <video src="https://te.legra.ph/file/6fb5fad08857eb2f5e51c.mp4">
 </p>
 
 # ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑
